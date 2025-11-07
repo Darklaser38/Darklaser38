@@ -38,9 +38,3 @@ Outside of that i know these these programming languages:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </p>
-
-And here is some randoms stats:
-
-![Darklaser38's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darklaser38&show_icons=true&theme=dark)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Darklaser38&theme=github-dark)
-![Org Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GodkuProject&layout=compact&theme=dark)
