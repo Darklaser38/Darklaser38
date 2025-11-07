@@ -20,12 +20,12 @@ What is planned:
 
 - A Private Server with custom contents
 
-You can find us on our discord server: ![Invite Link](https://discord.gg/GodkuProject)
+You can find us on our discord server: [Invite Link](https://discord.gg/GodkuProject)
 Here is also some useful links:
 
-- ![Youtube Channel](https://www.youtube.com/@GodkuProject)
-- ![Github](https://github.com/GodkuProject)
-- ![Official Website](https://godkuproject.github.io/GodkuWebsite)
+- [Youtube Channel](https://www.youtube.com/@GodkuProject)
+- [Github](https://github.com/GodkuProject)
+- [Official Website](https://godkuproject.github.io/GodkuWebsite)
 
 # Miscs
 
@@ -42,5 +42,5 @@ Outside of that i know these these programming languages:
 And here is some randoms stats:
 
 ![Darklaser38's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darklaser38&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Darklaser38&layout=compact&theme=dark)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Darklaser38&theme=github-dark)
+![Org Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GodkuProject&layout=compact&theme=dark)
