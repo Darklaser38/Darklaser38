@@ -18,6 +18,8 @@ What is planned:
 
 - More Contents for the Mod Menu (currently working on the 3.0 version of the mod)
 
+- More Contents for the Farmbot (Better Stability and Auto Update)
+
 - A Private Server with custom contents
 
 You can find us on our discord server: [Invite Link](https://discord.gg/GodkuProject)
